@@ -126,7 +126,7 @@ const PrivacyPolicy = () => {
                 If you have any questions or concerns about our privacy practices, please contact us:
               </p>
               <p className="font-medium">Email: privacy@usabestcable.com</p>
-              <p className="font-medium">Phone: (888) 959-2035</p>
+              <p className="font-medium">Phone: 888-871-9118</p>
             </div>
           </div>
         </div>

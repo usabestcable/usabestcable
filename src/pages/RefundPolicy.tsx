@@ -65,7 +65,7 @@ const RefundPolicy = () => {
               <ol className="space-y-4 text-muted-foreground ml-6">
                 <li className="flex gap-3">
                   <span className="font-bold text-primary">1.</span>
-                  <span>Contact our customer support team via phone ((888) 959-2035), email (refunds@usabestcable.com), or live chat</span>
+                  <span>Contact our customer support team via phone (888-871-9118), email (refunds@usabestcable.com), or live chat</span>
                 </li>
                 <li className="flex gap-3">
                   <span className="font-bold text-primary">2.</span>
@@ -144,7 +144,7 @@ const RefundPolicy = () => {
                 Our customer support team is here to help with any questions about refunds or cancellations.
               </p>
               <p className="font-medium">Email: refunds@usabestcable.com</p>
-              <p className="font-medium">Phone: (888) 959-2035</p>
+              <p className="font-medium">Phone: 888-871-9118</p>
               <p className="font-medium">Live Chat: Available 24/7 on our website</p>
             </div>
           </div>

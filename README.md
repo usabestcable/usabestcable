@@ -41,5 +41,5 @@ Live site: https://usabestcable.com
 
 ## Contact
 
-Phone: (888) 959-2035
+Phone: 888-871-9118
 Website: https://usabestcable.com

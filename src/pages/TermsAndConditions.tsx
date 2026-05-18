@@ -184,7 +184,7 @@ const TermsAndConditions = () => {
               </p>
               <ul className="space-y-2 text-muted-foreground ml-6">
                 <li>• Email: legal@usabestcable.com</li>
-                <li>• Phone: (888) 959-2035</li>
+                <li>• Phone: 888-871-9118</li>
                 <li>• Mail: USA Best Cable Legal Department, 123 Tech Boulevard, San Francisco, CA 94105</li>
               </ul>
             </div>
