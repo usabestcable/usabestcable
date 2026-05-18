@@ -35,9 +35,9 @@ const Navbar = () => {
           </div>
 
           <div className="hidden md:flex items-center gap-3 lg:gap-4">
-            <a href="tel:8888719118" className="flex items-center gap-2 text-foreground hover:text-primary transition-colors font-semibold">
+            <a href="tel:8889592035" className="flex items-center gap-2 text-foreground hover:text-primary transition-colors font-semibold">
               <Phone className="w-4 h-4" />
-              <span className="hidden lg:inline">888-871-9118</span>
+              <span className="hidden lg:inline">(888) 959-2035</span>
             </a>
             <Link to="/contact">
               <Button variant="hero">Get Started</Button>
@@ -66,9 +66,9 @@ const Navbar = () => {
               Contact
             </Link>
             <div className="flex flex-col gap-2 pt-2">
-              <a href="tel:8888719118" className="flex items-center justify-center gap-2 text-foreground hover:text-primary transition-colors font-semibold py-2">
+              <a href="tel:8889592035" className="flex items-center justify-center gap-2 text-foreground hover:text-primary transition-colors font-semibold py-2">
                 <Phone className="w-4 h-4" />
-                888-871-9118
+                (888) 959-2035
               </a>
               <Link to="/contact">
                 <Button variant="hero" className="w-full">Get Started</Button>

@@ -17,9 +17,9 @@ const Footer = () => {
               Connecting communities with lightning-fast, reliable internet services across the nation.
             </p>
             <div className="space-y-2">
-              <a href="tel:8888719118" className="flex items-center gap-2 text-background/70 hover:text-background transition-colors">
+              <a href="tel:8889592035" className="flex items-center gap-2 text-background/70 hover:text-background transition-colors">
                 <Phone className="w-4 h-4" />
-                <span className="text-sm">888-871-9118</span>
+                <span className="text-sm">(888) 959-2035</span>
               </a>
             </div>
           </div>

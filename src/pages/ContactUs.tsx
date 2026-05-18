@@ -94,7 +94,7 @@ const ContactUs = () => {
                     <div className="flex-1">
                       <h3 className="font-bold text-xl mb-2 group-hover:text-primary transition-colors">Call Us</h3>
                       <p className="text-muted-foreground mb-2">Available 24/7 for your convenience</p>
-                      <a href="tel:8888719118" className="font-bold text-lg hover:text-primary transition-colors">888-871-9118</a>
+                      <a href="tel:8889592035" className="font-bold text-lg hover:text-primary transition-colors">(888) 959-2035</a>
                     </div>
                   </div>
                 </Card>

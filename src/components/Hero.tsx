@@ -1,4 +1,4 @@
-﻿import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Zap, Shield, Users, Wifi, Activity, Globe, ArrowRight, Sparkles, Star, CheckCircle2, Rocket, TrendingUp, Phone } from "lucide-react";
 import { useEffect, useState } from "react";
@@ -119,14 +119,14 @@ const Hero = () => {
                   <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
                 </Button>
               </Link>
-              <a href="tel:8888719118">
+              <a href="tel:8889592035">
                 <Button 
                   size="lg"
                   variant="outline"
                   className="group px-8 sm:px-10 py-5 sm:py-7 text-base sm:text-lg font-bold rounded-xl sm:rounded-2xl border-2 border-secondary hover:border-primary hover:bg-primary/10 hover:text-primary transition-all duration-300 hover:scale-105 w-full sm:w-auto"
                 >
                   <Phone className="w-5 h-5 mr-2 group-hover:rotate-12 transition-transform" />
-                  888-871-9118
+                  (888) 959-2035
                 </Button>
               </a>
             </div>
